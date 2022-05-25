@@ -24,4 +24,5 @@ I have experience 7 years of Web development and 2 years of Windows program deve
 </p>
 <br/>
 
+![Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=sol22kim&theme=panda&show_icons=true)<br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=sol22kim)
